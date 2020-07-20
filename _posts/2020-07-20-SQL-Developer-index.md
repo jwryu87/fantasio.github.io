@@ -5,6 +5,7 @@ categories:
   - SQL Developer Guide
 tags:
   - SQL
+  - INDEX
 ---
 
 ### 과목 Ⅰ 데이터 모델링의 이해
