@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Fantasio"
-  avatar           : "/assets/images/500x300.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/20180316_095224.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "그냥 이런거에 관심있는 사람"
   location         : "South Korea"
   email            :
