@@ -4,7 +4,7 @@ title:  "SQL Developer Guide Index"
 categories:
   - SQL Developer Guide
 tags:
-  - SQL, index
+  - SQL
 ---
 
 ### 과목 Ⅰ 데이터 모델링의 이해
