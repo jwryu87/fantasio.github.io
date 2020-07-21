@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fantasio's Blog"
+title                    : "jwryu87.study"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Fantasio"
-description              : "Fantasio's Blog"
+name                     : "jwryu87"
+description              : "jwryu87.study"
 url                      : "https://jwryu87.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,10 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fantasio"
+  name             : "jwryu87"
   avatar           : "/assets/images/20180315_182726.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "데이터베이스를 기반으로 다양한 분야로 공부를 하려고 합니다.
-   그리고 그것들을 기록하기 위해 블로그를 시작하였습니다."
+  bio              : "Thinking by Doing"
   location         : "South Korea"
   email            :
   links:
