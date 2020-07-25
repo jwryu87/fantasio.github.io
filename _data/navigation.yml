@@ -1,5 +1,7 @@
 # main links
 main:
+ - title: "Tag"
+    url: https://jwryu87.github.io/tag/
   - title: "Categories"
     url: https://jwryu87.github.io/categories/
   - title: "About.."
