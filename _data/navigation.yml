@@ -1,11 +1,11 @@
 # main links
 main:
  - title: "Tag"
-    url: https://jwryu87.github.io/tags/
+    url: /tags/
   - title: "Categories"
-    url: https://jwryu87.github.io/categories/
+    url: /categories/
   - title: "About.."
-    url: https://jwryu87.github.io/about/
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
