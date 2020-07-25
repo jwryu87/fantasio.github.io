@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "jwryu87.study"
+title                    : "Thinking by Doing" # "jwryu87.study"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "jwryu87"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "jwryu87"
   avatar           : # "/assets/images/20180315_182726.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Thinking by Doing"
+  bio              : "Good Grief!"
   location         : "South Korea"
   email            :
   links:
