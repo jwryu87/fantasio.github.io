@@ -15,6 +15,8 @@ layout: single
 
 ##### [Hadoop-Study](https://wikidocs.net/profile/info/book/6965)
 
+[Github](https://github.com/jwryu87)
+
 ## DB 정보
 
 ##### [DE팀 서버리스트](https://skpcorp-my.sharepoint.com/:x:/g/personal/cookatrice_skplanet_com/EdQQbgmFIA1DtQW4yv5RQa4B4ibmVLGt3OA0p0u1p2dJVg?e=4%3AzZt8by&at=9)  |  [계정정보-DB](http://wiki.skplanet.com/pages/viewpage.action?pageId=75002137)  |  [DB 스키마 계정정보](http://wiki.skplanet.com/pages/viewpage.action?pageId=320091775)
