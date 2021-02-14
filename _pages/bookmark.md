@@ -7,7 +7,7 @@ layout: single
 
 ## SKP
 
-##### [Outlook](https://owa.skplanet.com/owa/#path=/mail)  |  [Pnet](http://pnet.skplanet.com/main/index.aspx)  |  [사내지원OneClick](http://supportportal.skplanet.com/main/main.aspx)  | [근무시간](http://workinghours.skplanet.com/main)  |  [VDI](http://workspace.skplanet.com/Citrix/StoreWeb)
+### [Pnet](http://pnet.skplanet.com/main/index.aspx)  |  [Outlook](https://owa.skplanet.com/owa/#path=/mail)  |  [사내지원OneClick](http://supportportal.skplanet.com/main/main.aspx)  | [근무시간](http://workinghours.skplanet.com/main)  |  [VDI](http://workspace.skplanet.com/Citrix/StoreWeb)
 
 ## Dev
 
