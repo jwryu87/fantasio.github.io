@@ -11,7 +11,7 @@ layout: single
 
 ## Dev
 
-#####[WIKI](http://wiki.skplanet.com/display/DE/Team+Weekly)  |  [JIRA](http://jira.skplanet.com/secure/Dashboard.jspa)  |  [BitBucket](http://code.skplanet.com/dashboard)  |  [Medic](http://medic.skplanet.co.kr:7000/databases)  |  [Workflow](https://skpcorp-my.sharepoint.com/:x:/g/personal/minjun_bae_skplanet_com1/EZ22S12VqWFIo8UifpQQTY8B2cPd52OwDtTd-P21wtivJQ?e=4%3AYbfNlN&at=9)
+### [WIKI](http://wiki.skplanet.com/display/DE/Team+Weekly)  |  [JIRA](http://jira.skplanet.com/secure/Dashboard.jspa)  |  [BitBucket](http://code.skplanet.com/dashboard)  |  [Medic](http://medic.skplanet.co.kr:7000/databases)  |  [Workflow](https://skpcorp-my.sharepoint.com/:x:/g/personal/minjun_bae_skplanet_com1/EZ22S12VqWFIo8UifpQQTY8B2cPd52OwDtTd-P21wtivJQ?e=4%3AYbfNlN&at=9)
 
 ##### [Hadoop-Study](https://wikidocs.net/profile/info/book/6965)
 
@@ -19,7 +19,7 @@ layout: single
 
 ## DB 정보
 
-##### [DE팀 서버리스트](https://skpcorp-my.sharepoint.com/:x:/g/personal/cookatrice_skplanet_com/EdQQbgmFIA1DtQW4yv5RQa4B4ibmVLGt3OA0p0u1p2dJVg?e=4%3AzZt8by&at=9)  |  [계정정보-DB](http://wiki.skplanet.com/pages/viewpage.action?pageId=75002137)  |  [DB 스키마 계정정보](http://wiki.skplanet.com/pages/viewpage.action?pageId=320091775)
+### [DE팀 서버리스트](https://skpcorp-my.sharepoint.com/:x:/g/personal/cookatrice_skplanet_com/EdQQbgmFIA1DtQW4yv5RQa4B4ibmVLGt3OA0p0u1p2dJVg?e=4%3AzZt8by&at=9)  |  [계정정보-DB](http://wiki.skplanet.com/pages/viewpage.action?pageId=75002137)  |  [DB 스키마 계정정보](http://wiki.skplanet.com/pages/viewpage.action?pageId=320091775)
 
 ## 서비스
 
