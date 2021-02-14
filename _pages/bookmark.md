@@ -13,6 +13,7 @@ layout: single
 
 ##### [WIKI](http://wiki.skplanet.com/display/DE/Team+Weekly)  |  [JIRA](http://jira.skplanet.com/secure/Dashboard.jspa)  |  [BitBucket](http://code.skplanet.com/dashboard)  |  [Medic](http://medic.skplanet.co.kr:7000/databases)  |  [Workflow](https://skpcorp-my.sharepoint.com/:x:/g/personal/minjun_bae_skplanet_com1/EZ22S12VqWFIo8UifpQQTY8B2cPd52OwDtTd-P21wtivJQ?e=4%3AYbfNlN&at=9)
 
+##### [Study](https://wikidocs.net/profile/info/book/6965)
 
 ## DB 정보
 
@@ -21,3 +22,15 @@ layout: single
 ## 서비스
 
 ##### [SODAR](https://sodar.syrup.co.kr/index.html)  |  [SODAR IA](https://sodaradmin.syrup.co.kr/index.html)  |  [Hannah](https://hannahadmin.syrup.co.kr/#/pages/login)
+
+## LIFE
+
+##### [Gmail](https://mail.google.com/mail/u/0/)  |  [Calendar](https://calendar.naver.com)  |  [Youtube](https://www.youtube.com/) |  
+
+## ASSET
+
+##### [F](https://finance.naver.com/main/main.nhn)  |  [James Lee](https://blog.naver.com/ionia17)
+
+
+
+
