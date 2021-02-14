@@ -11,11 +11,11 @@ layout: single
 
 ## Dev
 
-##### [WIKI](http://wiki.skplanet.com/display/DE/Team+Weekly)  |  [JIRA](http://jira.skplanet.com/secure/Dashboard.jspa)  |  [BitBucket](http://code.skplanet.com/dashboard)  |  [Medic](http://medic.skplanet.co.kr:7000/databases)  |  [Workflow](https://skpcorp-my.sharepoint.com/:x:/g/personal/minjun_bae_skplanet_com1/EZ22S12VqWFIo8UifpQQTY8B2cPd52OwDtTd-P21wtivJQ?e=4%3AYbfNlN&at=9)
+#####[WIKI](http://wiki.skplanet.com/display/DE/Team+Weekly)  |  [JIRA](http://jira.skplanet.com/secure/Dashboard.jspa)  |  [BitBucket](http://code.skplanet.com/dashboard)  |  [Medic](http://medic.skplanet.co.kr:7000/databases)  |  [Workflow](https://skpcorp-my.sharepoint.com/:x:/g/personal/minjun_bae_skplanet_com1/EZ22S12VqWFIo8UifpQQTY8B2cPd52OwDtTd-P21wtivJQ?e=4%3AYbfNlN&at=9)
 
 ##### [Hadoop-Study](https://wikidocs.net/profile/info/book/6965)
 
-[Github](https://github.com/jwryu87)
+##### [Github](https://github.com/jwryu87)
 
 ## DB 정보
 
