@@ -7,11 +7,15 @@ layout: single
 
 ## SKP
 
-### [Pnet](http://pnet.skplanet.com/main/index.aspx){: target="_blank"}  |  [Outlook](https://owa.skplanet.com/owa/#path=/mail){: target="_blank"}  |  [사내지원OneClick](http://supportportal.skplanet.com/main/main.aspx){: target="_blank"}  | [근무시간](http://workinghours.skplanet.com/main){: target="_blank"}  |  [VDI](http://workspace.skplanet.com/Citrix/StoreWeb){: target="_blank"}  |  [하나카드](https://www.hanacard.co.kr/){: target="_blank"}  |  [팀 캘린더](http://wiki.skplanet.com/display/DE/calendar/a2fc534a-343e-4e6d-84ff-1fc4824d7119?calendarName=DE%20Calendar){: target="_blank"}  |  [근무순환일지](https://skpcorp-my.sharepoint.com/:x:/g/personal/sugap_rho_skplanet_com/EbHDuNI3UlZImEzqZhOoGHQBpwuTuQh4ADJfh_jdcPcMzw?e=aiQXEU){: target="_blank"}
+### [Pnet](http://pnet.skplanet.com/main/index.aspx){: target="_blank"}  |  [Outlook](https://owa.skplanet.com/owa/#path=/mail){: target="_blank"}  |  [사내지원OneClick](http://supportportal.skplanet.com/main/main.aspx){: target="_blank"}  | [근무시간](http://workinghours.skplanet.com/main){: target="_blank"}  |  [VDI](http://workspace.skplanet.com/Citrix/StoreWeb){: target="_blank"}  |  [하나카드](https://www.hanacard.co.kr/){: target="_blank"}  |  [팀 캘린더](http://wiki.skplanet.com/display/DE/calendar/a2fc534a-343e-4e6d-84ff-1fc4824d7119?calendarName=DE%20Calendar){: target="_blank"} 
+
+### [근무순환일](https://skpcorp-my.sharepoint.com/:x:/g/personal/sugap_rho_skplanet_com/EbHDuNI3UlZImEzqZhOoGHQBpwuTuQh4ADJfh_jdcPcMzw?e=aiQXEU){: target="_blank"}
 
 ## Dev
 
 ### [WIKI](http://wiki.skplanet.com/display/DE/Team+Weekly){: target="_blank"}  |  [JIRA](http://jira.skplanet.com/secure/Dashboard.jspa){: target="_blank"}  |  [BitBucket](http://code.skplanet.com/dashboard){: target="_blank"}  |  [Medic](http://medic.skplanet.co.kr:7000/databases){: target="_blank"}  |  [Workflow](https://skpcorp-my.sharepoint.com/:x:/g/personal/minjun_bae_skplanet_com1/EZ22S12VqWFIo8UifpQQTY8B2cPd52OwDtTd-P21wtivJQ?e=4%3AYbfNlN&at=9){: target="_blank"}  |  [Oozie](http://172.22.224.34:11200/oozie/){: target="_blank"}  |  [뷰 정의서](http://wiki.skplanet.com/pages/viewpage.action?pageId=114731349){: target="_blank"}
+
+##### [월간회의](http://wiki.skplanet.com/pages/viewpage.action?pageId=262696777)
 
 ##### [Hadoop-Study](https://wikidocs.net/profile/info/book/6965){: target="_blank"}
 
