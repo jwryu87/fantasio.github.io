@@ -37,6 +37,10 @@ layout: single
 
 ##### [Study&Cafe](https://www.youtube.com/watch?v=w87n8j722MQ){: target="_blank"}
 
+## News
+
+##### [매일경제](https://www.mk.co.kr/news/){: target="_blank"}
+
 ## ASSET
 
 ##### [Finance]  |  [James Lee](https://blog.naver.com/ionia17){: target="_blank"}  |  [CompanyGuide](http://comp.fnguide.com/){: target="_blank"}  |  [Asset Mang.](https://docs.google.com/spreadsheets/d/1yDYln-okTCJijys8r4rK03Eq4eNVwjXy23WLv563KvU/edit#gid=821932368){: target="_blank"}
