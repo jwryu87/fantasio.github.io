@@ -35,7 +35,7 @@ layout: single
 
 ##### [Gmail](https://mail.google.com/mail/u/0/){: target="_blank"}  |  [Calendar](https://calendar.naver.com){: target="_blank"}  |  [Youtube](https://www.youtube.com/){: target="_blank"} |  
 
-##### [Study&Cafe](https://www.youtube.com/watch?v=w87n8j722MQ){: target="_blank"}
+##### [Study&Cafe](https://www.youtube.com/watch?v=Dx5qFachd3A){: target="_blank"}
 
 ## News
 
