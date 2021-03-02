@@ -13,7 +13,7 @@ layout: single
 
 ## Dev
 
-### [WIKI](http://wiki.skplanet.com/display/DE/Team+Weekly){: target="_blank"}  |  [JIRA](http://jira.skplanet.com/secure/Dashboard.jspa){: target="_blank"}  |  [BitBucket](http://code.skplanet.com/dashboard){: target="_blank"}  |  [Medic](http://medic.skplanet.co.kr:7000/databases){: target="_blank"}  |  [Workflow](https://skpcorp-my.sharepoint.com/:x:/g/personal/minjun_bae_skplanet_com1/EZ22S12VqWFIo8UifpQQTY8B2cPd52OwDtTd-P21wtivJQ?e=4%3AYbfNlN&at=9){: target="_blank"}  |  [Oozie](http://172.22.224.34:11200/oozie/){: target="_blank"}  |  [뷰 정의서](http://wiki.skplanet.com/pages/viewpage.action?pageId=114731349){: target="_blank"}
+### [WIKI](http://wiki.skplanet.com/display/DE/Team+Weekly){: target="_blank"}  |  [JIRA](http://jira.skplanet.com/secure/Dashboard.jspa){: target="_blank"}  |  [BitBucket](http://code.skplanet.com/dashboard){: target="_blank"}  |  [Medic](http://medic.skplanet.co.kr:7000/databases){: target="_blank"}  |  [Oozie](http://172.22.224.34:11200/oozie/){: target="_blank"}  |  [뷰 정의서](http://wiki.skplanet.com/pages/viewpage.action?pageId=114731349){: target="_blank"}
 
 ##### [주간회의](http://wiki.skplanet.com/display/DE/Team+Weekly){: target="_blank"}  |  [월간회의](http://wiki.skplanet.com/pages/viewpage.action?pageId=336387897){: target="_blank"}
 
