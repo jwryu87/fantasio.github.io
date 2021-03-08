@@ -23,7 +23,7 @@ layout: single
 
 ## DB 정보
 
-### [DE팀 서버리스트](https://skpcorp-my.sharepoint.com/:x:/g/personal/cookatrice_skplanet_com/EdQQbgmFIA1DtQW4yv5RQa4B4ibmVLGt3OA0p0u1p2dJVg?e=4%3AzZt8by&at=9){: target="_blank"}  |  [계정정보-DB](http://wiki.skplanet.com/pages/viewpage.action?pageId=75002137){: target="_blank"}  |  [DB 스키마 계정정보](http://wiki.skplanet.com/pages/viewpage.action?pageId=320091775){: target="_blank"}
+### [DE팀 서버리스트](https://skpcorp-my.sharepoint.com/:x:/g/personal/cookatrice_skplanet_com/EdQQbgmFIA1DtQW4yv5RQa4B4ibmVLGt3OA0p0u1p2dJVg?e=4%3AzZt8by&at=9){: target="_blank"}  |  [계정정보-DB](http://wiki.skplanet.com/pages/viewpage.action?pageId=75002137){: target="_blank"}  |  [DB 스키마 계정정보](http://wiki.skplanet.com/pages/viewpage.action?pageId=320091775){: target="_blank"}  |  [Sentinel](http://fvdi.skplanet.com/){: target="_blank"}
 
 ### [DE_BI_BM별 workflow configuration](https://skpcorp-my.sharepoint.com/:x:/g/personal/minjun_bae_skplanet_com1/EZ22S12VqWFIo8UifpQQTY8B2cPd52OwDtTd-P21wtivJQ?e=4%3AYbfNlN&at=9){: target="_blank"}
 
