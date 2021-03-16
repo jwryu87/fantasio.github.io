@@ -21,7 +21,7 @@ layout: single
 
 ##### [마이데이터](http://wiki.skplanet.com/pages/viewpage.action?pageId=335658556){: target="_blank"}
 
-##### [Django](https://www.imagineer.io/courses/101240/lectures/1851490{: target="_blank"}
+##### [Django](https://www.imagineer.io/courses/101240/lectures/1851490){: target="_blank"}
 
 
 ## DB 정보
