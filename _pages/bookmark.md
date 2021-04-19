@@ -19,7 +19,7 @@ layout: single
 
 ##### [Hadoop-Study](https://wikidocs.net/profile/info/book/6965){: target="_blank"}  |  [Github](https://github.com/jwryu87){: target="_blank"}  |  [AWS](https://ap-northeast-2.console.aws.amazon.com/){: target="_blank"}
 
-##### [마이데이터](http://wiki.skplanet.com/pages/viewpage.action?pageId=335658556){: target="_blank"}
+##### [MyData](http://wiki.skplanet.com/pages/viewpage.action?pageId=354845315){: target="_blank"}
 
 ##### [Django](https://www.imagineer.io/courses/101240/lectures/1851490){: target="_blank"}
 
