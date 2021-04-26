@@ -7,7 +7,7 @@ layout: single
 
 ## SKP
 
-### [Pnet](http://pnet.skplanet.com/main/index.aspx){: target="_blank"}  |  [Outlook](https://owa.skplanet.com/owa/#path=/mail){: target="_blank"}  |  [사내지원OneClick](http://supportportal.skplanet.com/main/main.aspx){: target="_blank"}  | [근무시간](http://workinghours.skplanet.com/main){: target="_blank"}  |  [하나카드](https://www.hanacard.co.kr/){: target="_blank"}  |  [팀 캘린더](http://wiki.skplanet.com/display/DE/calendar/a2fc534a-343e-4e6d-84ff-1fc4824d7119?calendarName=DE%20Calendar){: target="_blank"} 
+### [Pnet](http://pnet.skplanet.com/main/index.aspx){: target="_blank"}  |  [Outlook](https://owa.skplanet.com/owa/#path=/mail){: target="_blank"}  |  [사내지원OneClick](http://supportportal.skplanet.com/main/main.aspx){: target="_blank"}  | [근무시간](http://workinghours.skplanet.com/main){: target="_blank"}  |  [팀 캘린더](http://wiki.skplanet.com/display/DE/calendar/a2fc534a-343e-4e6d-84ff-1fc4824d7119?calendarName=DE%20Calendar){: target="_blank"} 
 
 ### [근무순환](https://skpcorp-my.sharepoint.com/:x:/g/personal/sugap_rho_skplanet_com/EbHDuNI3UlZImEzqZhOoGHQBpwuTuQh4ADJfh_jdcPcMzw?e=aiQXEU){: target="_blank"}  |  [P-Library](http://p-library.skplanet.com/index.ax){: target="_blank"}  |  [주간회의](http://wiki.skplanet.com/display/DE/Team+Weekly){: target="_blank"}  |  [월간회의](http://wiki.skplanet.com/pages/viewpage.action?pageId=336387897){: target="_blank"}  |  [일일업무일지](http://wiki.skplanet.com/pages/viewpage.action?pageId=338385408){: target="_blank"}
 
@@ -51,7 +51,7 @@ layout: single
 
 ## ASSET
 
-##### [Finance](https://finance.naver.com/){: target="_blank"}  |  [James Lee](https://blog.naver.com/ionia17){: target="_blank"}  |  [CompanyGuide](http://comp.fnguide.com/){: target="_blank"}  |  [Asset Mang.](https://docs.google.com/spreadsheets/d/1yDYln-okTCJijys8r4rK03Eq4eNVwjXy23WLv563KvU/edit#gid=821932368){: target="_blank"}
+##### [Finance](https://finance.naver.com/){: target="_blank"}  |  [James Lee](https://blog.naver.com/ionia17){: target="_blank"}  |  [CompanyGuide](http://comp.fnguide.com/){: target="_blank"}  |  [Asset Mang.](https://docs.google.com/spreadsheets/d/1yDYln-okTCJijys8r4rK03Eq4eNVwjXy23WLv563KvU/edit#gid=821932368){: target="_blank"}  |  [하나카드](https://www.hanacard.co.kr/){: target="_blank"}
 
 ## 부동산
 
