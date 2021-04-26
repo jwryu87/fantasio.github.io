@@ -21,7 +21,8 @@ layout: single
 
 ##### [Hadoop-Study](https://wikidocs.net/profile/info/book/6965){: target="_blank"}  |  [Github](https://github.com/jwryu87){: target="_blank"}  |  [AWS](https://ap-northeast-2.console.aws.amazon.com/){: target="_blank"}
 
-##### [MyData](http://wiki.skplanet.com/pages/viewpage.action?pageId=354845315){: target="_blank"}
+##### [MyData WIKI](http://wiki.skplanet.com/pages/viewpage.action?pageId=354845315){: target="_blank"}  |  [MyData JIRA](http://jira.skplanet.com/browse/DTPCS-4560){: target="_blank"}
+
 
 ## DB 정보
 
