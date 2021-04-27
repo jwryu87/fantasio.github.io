@@ -32,7 +32,7 @@ layout: single
 
 ## 서비스
 
-##### [SODAR MA](https://sodar.syrup.co.kr/index.html){: target="_blank"}  |  [SODAR IA](https://sodaradmin.syrup.co.kr/index.html){: target="_blank"}  |  [Hannah](https://hannahadmin.syrup.co.kr/#/pages/login){: target="_blank"}  |  [OkCashbag](https://m.okcashbag.com/index.mocb){: target="_blank"}
+##### [SODAR MA](https://sodar.syrup.co.kr/index.html){: target="_blank"}  |  [SODAR IA](https://sodaradmin.syrup.co.kr/index.html){: target="_blank"}  |  [Hannah](https://hannahadmin.syrup.co.kr/#/pages/login){: target="_blank"}  |  [OkCashbag](https://www.okcashbag.com/life/event/eventHome.do){: target="_blank"}
 
 ## Django
 
