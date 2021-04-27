@@ -42,7 +42,7 @@ layout: single
 
 ## LIFE
 
-##### [Gmail](https://mail.google.com/mail/u/0/){: target="_blank"}  |  [Calendar](https://calendar.naver.com){: target="_blank"}  |  [Youtube](https://www.youtube.com/){: target="_blank"} |  [은평도서](https://www.eplib.or.kr/){: target="_blank"}
+##### [Gmail](https://mail.google.com/mail/u/0/){: target="_blank"}  |  [Calendar](https://calendar.naver.com){: target="_blank"}  |  [Youtube](https://www.youtube.com/){: target="_blank"} |  [은평도서](https://www.eplib.or.kr/){: target="_blank"}  |  [은평도서](https://www.teamblind.com/kr/){: target="_blank"}
 
 ##### [Study&Cafe](https://www.youtube.com/watch?v=C5bOu0OL6Ec){: target="_blank"}
 
