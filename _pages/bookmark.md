@@ -32,7 +32,7 @@ layout: single
 
 ## 서비스
 
-##### [SODAR MA](https://sodar.syrup.co.kr/index.html){: target="_blank"}  |  [SODAR IA](https://sodaradmin.syrup.co.kr/index.html){: target="_blank"}  |  [Hannah](https://hannahadmin.syrup.co.kr/#/pages/login){: target="_blank"}
+##### [SODAR MA](https://sodar.syrup.co.kr/index.html){: target="_blank"}  |  [SODAR IA](https://sodaradmin.syrup.co.kr/index.html){: target="_blank"}  |  [Hannah](https://hannahadmin.syrup.co.kr/#/pages/login){: target="_blank"}  |  [OkCashbag](https://m.okcashbag.com/index.mocb){: target="_blank"}
 
 ## Django
 
@@ -42,7 +42,7 @@ layout: single
 
 ## LIFE
 
-##### [Gmail](https://mail.google.com/mail/u/0/){: target="_blank"}  |  [Calendar](https://calendar.naver.com){: target="_blank"}  |  [Youtube](https://www.youtube.com/){: target="_blank"} |  [은평도서](https://www.eplib.or.kr/){: target="_blank"}  |  [블라인드](https://www.teamblind.com/kr/){: target="_blank"}
+##### [Gmail](https://mail.google.com/mail/u/0/){: target="_blank"}  |  [Calendar](https://calendar.naver.com){: target="_blank"}  |  [Youtube](https://www.youtube.com/){: target="_blank"} |  [은평도서](https://www.eplib.or.kr/){: target="_blank"}  |  [블라인](https://www.teamblind.com/kr/){: target="_blank"}
 
 ##### [Study&Cafe](https://www.youtube.com/watch?v=C5bOu0OL6Ec){: target="_blank"}
 
