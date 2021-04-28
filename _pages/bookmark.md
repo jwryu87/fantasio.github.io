@@ -21,7 +21,7 @@ layout: single
 
 ##### [Hadoop-Study](https://wikidocs.net/profile/info/book/6965){: target="_blank"}  |  [Github](https://github.com/jwryu87){: target="_blank"}  |  [AWS](https://ap-northeast-2.console.aws.amazon.com/){: target="_blank"}
 
-##### [MyData WIKI](http://wiki.skplanet.com/pages/viewpage.action?pageId=354845315){: target="_blank"}  |  [MyData JIRA](http://jira.skplanet.com/browse/DTPCS-4560){: target="_blank"}  |  [MyData 지원센터](https://www.mydatacenter.or.kr:3441/main.do){: target="_blank"}  |  [MyData 테스트베](https://developers.mydatakorea.org/mdtb/){: target="_blank"}
+##### [MyData WIKI](http://wiki.skplanet.com/pages/viewpage.action?pageId=354845315){: target="_blank"}  |  [MyData JIRA](http://jira.skplanet.com/browse/DTPCS-4560){: target="_blank"}  |  [MyData 지원센터](https://www.mydatacenter.or.kr:3441/main.do){: target="_blank"}  |  [MyData 테스트베드](https://developers.mydatakorea.org/mdtb/){: target="_blank"}  |  [MyData OCB기획](http://wiki.skplanet.com/pages/viewpage.action?pageId=354864257){: target="_blank"}
 
 
 ## DB 정보
