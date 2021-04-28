@@ -17,7 +17,7 @@ layout: single
 
 ### [WIKI](http://wiki.skplanet.com/display/DE/Team+Weekly){: target="_blank"}  |  [JIRA](http://jira.skplanet.com/secure/Dashboard.jspa){: target="_blank"}  |  [BitBucket](http://code.skplanet.com/dashboard){: target="_blank"}  |  [Medic](http://medic.skplanet.co.kr:7000/databases){: target="_blank"}  |  [Oozie](http://172.22.224.34:11200/oozie/){: target="_blank"}  |  [뷰 정의서](http://wiki.skplanet.com/pages/viewpage.action?pageId=114731349){: target="_blank"}  |  [xtran](https://xtrans.skplanet.com/){: target="_blank"}  |  [Sentinel](https://sentinel.skplanet.com:9091/login){: target="_blank"}  |  [Governor](http://governor.skplanet.com:8088/main){: target="_blank"}
 
-### [test](evernote:///view/81714896/s455/3ff3368a-c62d-472f-907c-ddf89ae55209/d7c864fc-db4f-4105-8644-91e9af9cd41f){: target="_blank"}
+### [test](https://www.evernote.com/shard/s455/nl/81714896/3ff3368a-c62d-472f-907c-ddf89ae55209?title=Overview){: target="_blank"}
 
 
 ##### [Hadoop-Study](https://wikidocs.net/profile/info/book/6965){: target="_blank"}  |  [Github](https://github.com/jwryu87){: target="_blank"}  |  [AWS](https://ap-northeast-2.console.aws.amazon.com/){: target="_blank"}
