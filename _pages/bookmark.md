@@ -23,7 +23,7 @@ layout: single
 #### evernote
 ###### [공부](evernote:///view/81714896/s455/09c62bd7-d91b-c03c-8d03-0507b83a9580/c7ae237e-12f2-4447-bc6c-d54ee3e78b4e){: target="_blank"}  |  [미니 프로젝트](evernote:///view/81714896/s455/8e979dee-441c-867a-a2b2-d17722e8f259/d7aee6f4-953c-42b0-b02a-957e97fef6be){: target="_blank"}  |  [Hive Tip](evernote:///view/81714896/s455/442144e6-4b79-9fc5-e270-f6e61268b474/592ee2cc-8e4d-e653-8af3-4ceab813e0a3){: target="_blank"}  |  [[외부강의] 빅데이터 Part2. 하둡 에코시스템 개요](evernote:///view/81714896/s455/818f5123-7644-6ab0-31a4-e2b1705a4255/188ba4e1-b68a-481c-a7f3-d96c42eeb87b){: target="_blank"}  |  [django](evernote:///view/81714896/s455/f935dc17-8ba6-d09f-e3f6-db7fbf93db6e/54715030-b406-4511-99e1-2cc36f87ad81){: target="_blank"}
 #### Django
-###### [Django 강좌](https://www.imagineer.io/courses/101240/lectures/1851490){: target="_blank"}  |  [Django Documents](https://docs.djangoproject.com){: target="_blank"}  |  [부트스트랩](http://bootstrapk.com/){: target="_blank"}
+###### [Django 강좌](https://www.imagineer.io/courses/101240/lectures/1851490){: target="_blank"}  |  [Django Documents](https://docs.djangoproject.com){: target="_blank"}  |  [부트스트랩](http://bootstrapk.com/){: target="_blank"}  |  [imagineer](https://github.com/imagineer-io){: target="_blank"}
 ###### [Hadoop-Study](https://wikidocs.net/profile/info/book/6965){: target="_blank"}  |  [AWS](https://ap-northeast-2.console.aws.amazon.com/){: target="_blank"}
 
 
